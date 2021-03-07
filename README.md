@@ -1,7 +1,6 @@
 # APiNodejs_PostgreSQL
 
-Application developed during the [Rocketseat](https://rocketseat.com.br/) NLW-04.
-It consists of a server 
+## Application developed to pratice NodeJS + Express + PostgreSQL
 
 ## Installing
 ```
